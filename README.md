@@ -1,7 +1,12 @@
-## Hi there 👋
+### Welcome, I'm Kanghyeon Cho 👋
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=KangHyeoni)](https://github.com/anuraghazra/github-readme-stats)
+- I'm currently interested in ML, Algorithm, and Web Development
+- I can handle
+  - Programming Language: C, C++, Python, Java, JavaScript
+  - ML Library: TensorFlow, PyTorch
+  - Web Framework: Django, FastAPI
 
+### Problem Solving with Algorithms
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kanghyeoni)](https://solved.ac/kanghyeoni/)
 
