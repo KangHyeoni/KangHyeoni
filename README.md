@@ -9,7 +9,6 @@
 ### Problem Solving with Algorithms
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kanghyeoni)](https://solved.ac/kanghyeoni/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdgus0410)](https://solved.ac/rkdgus0410/)
 
 <!--
 **KangHyeoni/KangHyeoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
